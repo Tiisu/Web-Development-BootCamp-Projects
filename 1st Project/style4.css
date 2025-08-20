@@ -1,0 +1,9 @@
+.navbar {
+  display: flex; justify-content: space-between;
+  align-items: center; padding: 16px 24px;
+  background: var(--surface);
+}
+.logo { font-weight: 800; font-size: 20px; }
+.logo span { color: var(--brand); }
+.nav-links { display: flex; gap: 16px; }
+.nav-actions { display: flex; gap: 8px; }
